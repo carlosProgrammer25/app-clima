@@ -1,0 +1,73 @@
+
+.Search {
+  width: 300px;         
+  margin: 50px auto;    
+  padding: 20px;
+  text-align: center;   
+  background-color: #f0f0f0; 
+  border-radius: 10px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.2); 
+}
+
+.Search h2 {
+  font-size: 18px;
+  margin-bottom: 15px;
+  color: #333;
+}
+
+.Search input {
+  width: 100%;       
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  outline: none;
+  transition: border-color 0.2s;
+}
+
+.Search input:focus {
+  border-color: #007bff; 
+}
+.ClimaCard {
+  width: 250px;              
+  margin: 20px auto;         
+  background-color: #f0f8ff;  
+  border-radius: 10px;      
+  text-align: center;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+  font-family: Arial, sans-serif;
+}
+
+.Temperatura {
+  font-size: 36px;
+  font-weight: 700;
+  margin: 12px 0;
+  color: #ff6600;
+  text-shadow: 1px 1px 2px #aaa;
+  text-align: center;
+}
+
+
+.Pais, .Cidade, .Descricao {
+  font-size: 16px;
+  margin: 5px 0;
+  color: #333;
+}
+
+.IconeClima {
+  width: 80px;
+  height: 80px;
+  margin-top: 10px;
+}
+
+.Mensagem {
+  padding: 12px 20px;
+  margin: 10px 0;
+  background-color: #f0f0f0;
+  color: #333;
+  font-size: 16px;
+  border-radius: 6px;
+  text-align: center;
+  border: 1px solid #ccc;
+}
+
